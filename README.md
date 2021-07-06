@@ -28,6 +28,7 @@
 ![Kafka](https://img.shields.io/badge/-Kafka-05122A?style=flat&logo=apache-kafka)
 
 ![AWS](https://img.shields.io/badge/-AWS-05122A?&logo=Amazon-AWS&logoColor=F90)
+![Vercel](https://img.shields.io/badge/-Vercel-05122A?&logo=Vercel)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?&logo=Kubernetes)
 ![Linux](https://img.shields.io/badge/-Linux-05122A?&logo=Linux)
