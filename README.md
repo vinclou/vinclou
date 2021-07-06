@@ -18,7 +18,7 @@
 ![React](https://img.shields.io/badge/-React-05122A?&logo=React)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?&logo=TypeScript)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java)
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)
 
 ![SQL](https://img.shields.io/badge/-SQL-05122A?&logo=MySQL)
