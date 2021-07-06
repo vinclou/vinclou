@@ -1,5 +1,5 @@
 <h4 align="center"><samp> Hello there 👋  Let's make the world a better place through quality software ☁️ </samp></h4>
--💻  **Software Engineer**`Full-Stack`
+
 <p align="center">
   <img width="250" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1f43d5b0-2dc2-4600-a801-2e246e33b5b2/daskrbe-76c16531-2c95-4c35-8b68-309f92ef20f6.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFmNDNkNWIwLTJkYzItNDYwMC1hODAxLTJlMjQ2ZTMzYjViMlwvZGFza3JiZS03NmMxNjUzMS0yYzk1LTRjMzUtOGI2OC0zMDlmOTJlZjIwZjYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.GSno9jQNWayWqCZopi4q_zUCFq9Fb6KcvwjX53lLY3g">
 <!-- <span> GIF credits to 6VCR </span> -->
@@ -10,6 +10,7 @@
   <a href= "https://twitter.com/"><img src="https://img.icons8.com/material-outlined/32/000000/twitter.png"/></a> -->
 </p>
 
+-💻  **Software Engineer**`Full-Stack`
 ### 🛠 I code using
 
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)
