@@ -1,7 +1,7 @@
 <h4 align="center"><samp> Hello there 👋 welcome to my Github! Let's make the world a better place through quality software☁️ </h4>
 
 <p align="center">
-  <img width="250" src="	https://static-cdn4.vigbo.tech/u68331/80381/blog/5…06/2000-6VCR-eb244e9a7219529a2f8e086aa48a87b0.gif">
+  <img width="250" src="https://static-cdn4.vigbo.tech/u68331/80381/blog/5…06/2000-6VCR-eb244e9a7219529a2f8e086aa48a87b0.gif">
 </p>  
   
 <!--
