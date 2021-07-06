@@ -10,15 +10,16 @@
   <a href= "https://twitter.com/"><img src="https://img.icons8.com/material-outlined/32/000000/twitter.png"/></a> -->
 </p>
 
--💻  **Software Engineer**`Full-Stack`
+💻  **Software Engineer**`Full-Stack`
 ### 🛠 I code using
 
-![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?&logo=node.js)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?&logo=JavaScript)
-![Python](https://img.shields.io/badge/-Python-05122A?&logo=Python)
 ![React](https://img.shields.io/badge/-React-05122A?&logo=React)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?&logo=TypeScript)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
+![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)
 
 ![SQL](https://img.shields.io/badge/-SQL-05122A?&logo=MySQL)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL)
