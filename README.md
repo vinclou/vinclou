@@ -1,6 +1,7 @@
-<h4 align="center"><samp> Hello there 👋  Let's make the world a better place through quality software ☁️ </samp></h4>
+<h4 align="left"><samp> Hello there 👋  </samp></h4>
+<h5 align="left"><samp> Let's make the world a better place through quality software ☁️ </samp></h5>
 
-<p align="center">
+<p align="left">
   <img width="250" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1f43d5b0-2dc2-4600-a801-2e246e33b5b2/daskrbe-76c16531-2c95-4c35-8b68-309f92ef20f6.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFmNDNkNWIwLTJkYzItNDYwMC1hODAxLTJlMjQ2ZTMzYjViMlwvZGFza3JiZS03NmMxNjUzMS0yYzk1LTRjMzUtOGI2OC0zMDlmOTJlZjIwZjYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.GSno9jQNWayWqCZopi4q_zUCFq9Fb6KcvwjX53lLY3g">
 <!-- <span> GIF credits to 6VCR </span> -->
 </p>  
@@ -25,7 +26,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)
 ![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=Redis)
-![Kafka](https://img.shields.io/badge/-Kafka-05122A?style=flat&logo=apache-kafka)
+![DynamoDB](https://img.shields.io/badge/-DynamoDB-05122A?style=flat&logo=apache-kafka)
 
 ![AWS](https://img.shields.io/badge/-AWS-05122A?&logo=Amazon-AWS&logoColor=F90)
 ![Vercel](https://img.shields.io/badge/-Vercel-05122A?&logo=Vercel)
