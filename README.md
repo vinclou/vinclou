@@ -15,6 +15,7 @@
 ### 🛠 I code using
 
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?&logo=node.js)
+![Deno](https://img.shields.io/badge/-Deno-05122A?&logo=deno)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?&logo=JavaScript)
 ![React](https://img.shields.io/badge/-React-05122A?&logo=React)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?&logo=TypeScript)
